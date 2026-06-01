@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpave",
+        "uuid": 6796900,
+        "checksum": "r1r2l9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
